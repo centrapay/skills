@@ -5,10 +5,10 @@ description: Use when implementing a Centrapay e-commerce integration. Guides th
 # Centrapay E-commerce Integration
 
 ## Prerequisites - confirm before proceeding
-The user must have already contacted integrations@centrapay.com and received:
+The user must have:
 - API Key, Merchant ID, Merchant Config ID
 
-If not, stop — this must happen first.
+If not, stop — send them to the [Getting Started guide](https://docs.centrapay.com/guides/getting-started) to create an account, enable test mode, and create these. This must happen first.
 
 > API keys must never be client-side. All Centrapay API requests go through a backend server.
 
